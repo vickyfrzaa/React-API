@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "628dc621adff4647dfdc397b",
+      "name": "Test Dasboard",
+      "createdAt": "2022-05-27T09:30:59.758Z"
+    },
+    {
+      "id": "62907039adff4647dfdc39aa",
+      "name": "Test-Dasboard 2",
+      "createdAt": "2022-05-27T09:30:59.758Z"
+    },
+    {
+      "name": "Test React",
+      "createdAt": "2023-03-23T01:36:36.536Z",
+      "id": "qRcKkOh"
+    },
+    {
+      "name": "Test API",
+      "createdAt": "2023-03-23T02:00:49.860Z",
+      "id": "DIYH_Cy"
+    }
+  ]
+}
